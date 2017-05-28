@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Blue Oyster Cult",
+    "founded": "1969",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Blue_Oyster_Cult_1977_publicity_photo.jpg/1200px-Blue_Oyster_Cult_1977_publicity_photo.jpg"
+  },
+  {
+    "name": "Deep Purple",
+    "founded": "1965",
+    "picture": "https://i.ytimg.com/vi/Wr9ie2J2690/maxresdefault.jpg"
+  },
+  {
+    "name": "Scorpions",
+    "picture": "https://www.touristisrael.com/wp-content/uploads/scorp.jpg",
+    "founded": "1981"
+  },
+  {
+    "name": "The Sweet",
+    "picture": "http://images5.fanpop.com/image/photos/31400000/Sweet-sweet-band-31485278-500-350.jpg",
+    "founded": "1971"
+  }
+]
